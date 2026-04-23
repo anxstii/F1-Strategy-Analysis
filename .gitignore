@@ -1,0 +1,10 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+
+# Data cache
+data/raw/fastf1_cache/
+
+# OS files
+.DS_Store
